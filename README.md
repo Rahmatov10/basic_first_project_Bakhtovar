@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Bakhtovar First Project 
 ```
-⬆️ (Replace above with your app's name)
+My first project, test project
 ```
 
 Description of the app ...
