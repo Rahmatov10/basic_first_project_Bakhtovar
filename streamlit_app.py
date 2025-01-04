@@ -16,4 +16,4 @@ with st.expander("Data"):
 
 with st.sidebar:
   st.header("Import priznaki: ")
-  island = st.selectbox("island",(Torgersen., "Dream"))
+  island = st.selectbox("island",('Torgersen', "Dream"))
