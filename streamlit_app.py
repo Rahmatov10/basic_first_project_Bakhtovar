@@ -11,5 +11,5 @@ with st.expander("Data"):
   st.dataframe(X_raw)
 
   st.write("y")
-  y_raw = df.drop("species", axis=1)
+  y_raw = df.species
   st.dataframe(y_raw)
