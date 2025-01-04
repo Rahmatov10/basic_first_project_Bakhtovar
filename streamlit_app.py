@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotfy.express as px
+import plotly.express as px
 
 st.title('My first basic project')
 
