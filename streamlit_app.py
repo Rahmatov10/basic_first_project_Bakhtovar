@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import plotfy.express as px
 st.title('My first basic project')
 
 st.write('Hello bakhtovar!')
