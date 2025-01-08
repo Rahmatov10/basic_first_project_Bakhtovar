@@ -1,23 +1,3 @@
-Skip to main content
-Google Classroom
-Classroom
-ML Basic 2
-ML
-Material details
-Лекция + код
-Abubakr
-•
-Jan 5 (Edited Jan 5)
-
-video1912868438.mp4
-Video
-
-streamlit_app (1).py
-Text
-Class comments
-
-Add class comment…
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
